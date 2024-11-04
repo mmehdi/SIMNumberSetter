@@ -1,0 +1,14 @@
+<!-- res/values/shapes.xml -->
+<resources>
+    <style name="ShapeAppearance.Corner.Small">
+        <item name="cornerSize">4dp</item>
+    </style>
+
+    <style name="ShapeAppearance.Corner.Medium">
+        <item name="cornerSize">8dp</item>
+    </style>
+
+    <style name="ShapeAppearance.Corner.Large">
+        <item name="cornerSize">16dp</item>
+    </style>
+</resources>

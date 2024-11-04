@@ -9,4 +9,12 @@
     <style name="TextAppearance.AppCompat.Small.SNS" parent="TextAppearance.AppCompat.Small">
         <item name="android:fontFamily">@font/google_sans_text</item>
     </style>
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/accent</item>
+        <item name="colorOnPrimary">@color/primary_dark</item>
+        <!-- Other attributes -->
+    </style>
+
 </resources>

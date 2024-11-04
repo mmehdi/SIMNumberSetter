@@ -1,3 +1,4 @@
+<!-- res/values/themes.xml -->
 <resources>
     <style name="Theme.PhoneNumberSetter" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="android:colorPrimary">@color/primary</item>
@@ -7,5 +8,10 @@
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="android:windowLightStatusBar">@bool/light_status_nav</item>
         <item name="android:windowLightNavigationBar">@bool/light_status_nav</item>
+
+        <!-- Reference to Shape Appearance -->
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.Corner.Small</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.Corner.Medium</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.Corner.Large</item>
     </style>
 </resources>
