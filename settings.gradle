@@ -1,2 +1,3 @@
 rootProject.name = "SIMNumberSetter_legacy"
 include ':app'
+include ':systemstubs'
