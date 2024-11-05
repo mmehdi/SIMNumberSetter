@@ -1,5 +1,6 @@
 ###Update 05/11/2024: Older Android 6.0 Marshmallow support
-
+### Download
+[Download from releases page](https://github.com/mmehdi/SIMNumberSetter/releases)
 
 # SIM Number Setter
 
@@ -36,7 +37,3 @@ the SIM or network issues.
 ### Screenshots
 
 [![Screenshots](https://i.imgur.com/UNKADmrl.png)](https://i.imgur.com/UNKADmr.png)
-
-### Download
-
-[Download from releases page](https://github.com/KieronQuinn/SIMNumberSetter/releases)
