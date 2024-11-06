@@ -2,6 +2,12 @@
 ### Download
 [Download from releases page](https://github.com/mmehdi/SIMNumberSetter/releases)
 
+Pre reqqusites:
+1)Rooted device using Magisk
+2)Enable zygisk
+3)Install Xposed https://github.com/LSPosed/LSPosed
+4)Install SIMNumberSetter APK
+
 # SIM Number Setter
 
 SIM Number Setter is a small Xposed module that invokes normally unused Android System code to set 
