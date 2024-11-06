@@ -3,10 +3,10 @@
 [Download from releases page](https://github.com/mmehdi/SIMNumberSetter/releases)
 
 ## Pre requisites:
-* 1)Rooted device using Magisk
-* 2)Enable zygisk
-* 3)Install Xposed https://github.com/LSPosed/LSPosed
-* 4)Install SIMNumberSetter APK
+* Rooted device using Magisk
+* Enable zygisk
+* Install Xposed https://github.com/LSPosed/LSPosed
+* Install SIMNumberSetter APK
 
 # SIM Number Setter
 
