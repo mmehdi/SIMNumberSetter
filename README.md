@@ -7,6 +7,8 @@
 * Enable zygisk
 * Install Xposed https://github.com/LSPosed/LSPosed
 * Install SIMNumberSetter APK
+## For Android 6 (SDK 23)
+* You can use SuperSU and install Xposed from TWRP [Xposed v89 sdk 23](https://github.com/mmehdi/SIMNumberSetter/blob/main/xposed-v89-sdk23-arm.zip)
 
 # SIM Number Setter
 
