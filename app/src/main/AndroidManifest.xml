@@ -35,7 +35,7 @@
             android:value="@string/xposed_desc"/>
         <meta-data
             android:name="xposedminversion"
-            android:value="90"/>
+            android:value="89"/>
         <meta-data
             android:name="xposedscope"
             android:resource="@array/scope"/>
